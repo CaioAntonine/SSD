@@ -1,0 +1,7 @@
+model,capacity_tb,fleet_count,drive_days,failures,annualized_failure_rate_pct,unit_price_usd,replacement_labor_cost_usd,mtbf_hours
+Seagate Exos X16,16,38120,13913800,48,1.26,245.00,45.00,2000000
+Seagate Exos X20,20,24650,8997250,37,1.50,320.00,45.00,2000000
+Toshiba MG08,16,15800,5767000,16,1.01,235.00,45.00,2500000
+WDC Ultrastar HC550,18,29400,10731000,28,0.95,290.00,45.00,2500000
+WDC Ultrastar HC560,20,18900,6898500,24,1.27,330.00,45.00,2500000
+Fleet Aggregate Weighted,18.5,126870,46307550,153,1.21,284.00,45.00,2250000
